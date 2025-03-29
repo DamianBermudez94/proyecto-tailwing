@@ -2,31 +2,64 @@
 
 ![Design preview for the Notifications page coding challenge](./design/desktop-preview.jpg)
 
-🔹 Resumen del README
-Este proyecto es un desafío de Frontend Mentor en el que se debe construir una página de notificaciones siguiendo un diseño proporcionado. El objetivo es replicar la interfaz lo más fielmente posible utilizando HTML, CSS y JavaScript.
+Notifications Page
 
-✅ Funcionalidades principales:
-Diferenciar entre notificaciones leídas y no leídas.
 
-Marcar todas las notificaciones como leídas con un solo clic.
 
-Adaptar la interfaz a diferentes tamaños de pantalla.
+🚀 Proyecto
 
-Mostrar efectos visuales en estados de hover y focus.
+Este es un proyecto basado en un desafío de Frontend Mentor, donde desarrollé una página de notificaciones con interactividad.
 
-📂 Recursos y estructura:
+El objetivo principal fue replicar el diseño lo más fielmente posible utilizando HTML, CSS y JavaScript.
+
+✨ Características
+
+Diferenciación entre notificaciones leídas y no leídas.
+
+Botón para marcar todas como leídas y actualizar el contador de notificaciones.
+
+Interfaz responsive para diferentes tamaños de pantalla.
+
+Estados de hover en elementos interactivos.
+
+🛠 Tecnologías utilizadas
+
+HTML5 para la estructura.
+
+CSS3 para los estilos y diseño responsive.
+
+JavaScript para la interactividad.
+
+📂 Recursos
+
 Los diseños están en la carpeta /design en formato JPG.
 
-Los assets (imágenes y fuentes) están en /assets.
+Los assets (imágenes y fuentes) están en la carpeta /assets.
 
-Hay un style-guide.md con información sobre la paleta de colores y tipografías.
+La paleta de colores y tipografías están detalladas en style-guide.md.
 
-🚀 Desarrollo y despliegue:
-Se recomienda seguir un flujo de trabajo estructurado, comenzando con la maquetación en HTML antes de aplicar estilos.
+📌 Instalación y uso
 
-Se pueden usar plataformas como GitHub Pages, Vercel o Netlify para desplegar el proyecto.
+Clonar el repositorio:
 
-📢 Compartir la solución:
-Se puede publicar en la comunidad de Frontend Mentor, Twitter o LinkedIn.
+git clone https://github.com/tu-usuario/notifications-page.git
 
-Es recomendable escribir sobre la experiencia de desarrollo en plataformas como dev.to o Hashnode.
+Abrir index.html en un navegador o utilizar Live Server en VS Code.
+
+🚀 Despliegue
+
+El proyecto se puede desplegar fácilmente en:
+
+GitHub Pages
+
+Vercel
+
+Netlify
+
+📢 Compartí tu experiencia
+
+Si realizaste este desafío, compartilo en la comunidad de Frontend Mentor, en Twitter o LinkedIn. ¡Me encantaría ver tu versión! 😃
+
+📬 Contacto
+
+Si tenés alguna pregunta o sugerencia, podés contactarme a través de mi perfil de GitHub o redes sociales.
